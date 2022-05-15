@@ -1,0 +1,9 @@
+Buzz
+${FIZZ}
+Shin
+Imai
+--test
+"double" quote"
+'single quote'
+{{- }}
+$(pwd)
